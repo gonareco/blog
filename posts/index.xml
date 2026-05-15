@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Gonzalo Areco</title>
+    <link>https://gonareco.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Gonzalo Areco</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gonareco.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cómo normalicé 40.000 direcciones con un 99.5% de precisión</title>
+      <link>https://gonareco.github.io/blog/posts/tkinter/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/posts/tkinter/</guid>
+      <description>&lt;h2 id=&#34;el-problema-real&#34;&gt;El problema real&lt;/h2&gt;
+&lt;p&gt;En un proyecto para el &lt;strong&gt;IDECBA&lt;/strong&gt;, el &lt;strong&gt;Instituto de Estadísticas y Censos de la Ciudad de Buenos Aires&lt;/strong&gt;, se necesitaba normalizar ~40.000 direcciones por lote.&lt;/p&gt;
+&lt;p&gt;¿El problema? Estaban escritas de formas inconsistentes, con direcciones codificadas y datos crudos.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Entrada original&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;ldquo;Av. Rivadavia 1234 piso 3&amp;rdquo;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;ldquo;Rivadavia 1234&amp;rdquo;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;ldquo;Av Rivadavia 1234&amp;rdquo;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;ldquo;av Rivadavia1234&amp;rdquo;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10430 3686&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7075 119&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1675 1975&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Chilavert y Corvalan-mz. 21 casa 129 0&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;El objetivo era extraer &lt;strong&gt;calle&lt;/strong&gt; y &lt;strong&gt;altura&lt;/strong&gt; para cruzar con otras bases poblacionales ya estandarizadas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cómo compilé llama.cpp en Fedora con aceleración AMD Radeon</title>
+      <link>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</link>
+      <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
+      <guid>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</guid>
+      <description>&lt;h2 id=&#34;por-qué-compilar-manualmente-y-no-usar-ollama&#34;&gt;Por qué compilar manualmente y no usar Ollama&lt;/h2&gt;
+&lt;p&gt;Cuando quise correr modelos locales en mi laptop, probé primero Ollama
+con Podman. Funcionaba, pero noté dos problemas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Overhead del contenedor:&lt;/strong&gt; Cada vez que corría un modelo, consumía
+~500MB de RAM solo en el contenedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detección automática de GPU:&lt;/strong&gt; Ollama no detectaba mi Radeon 630.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Decidí compilar llama.cpp directamente para tener &lt;strong&gt;control total&lt;/strong&gt; y
+aprovechar mi hardware al máximo.&lt;/p&gt;
+&lt;h2 id=&#34;mi-hardware&#34;&gt;Mi hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: AMD Ryzen 5 7000 series&lt;/li&gt;
+&lt;li&gt;GPU: AMD Radeon 630 (4GB)&lt;/li&gt;
+&lt;li&gt;RAM: 32 GB&lt;/li&gt;
+&lt;li&gt;OS: Fedora 44&lt;/li&gt;
+&lt;li&gt;LLM Elegido: Qwen2.5-Coder:3b&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;el-problema-rocm-en-fedora-no-es-tan-simple&#34;&gt;El problema: ROCm en Fedora no es tan simple&lt;/h2&gt;
+&lt;p&gt;AMD tiene ROCm (Radeon Open Compute), el equivalente a CUDA de NVIDIA.
+Pero oficialmente, ROCm solo soporta Ubuntu y RHEL. Fedora no está en la
+lista oficial.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Podman rootless en Fedora: por qué es más seguro que Docker</title>
+      <link>https://gonareco.github.io/blog/posts/podman-rootless/</link>
+      <pubDate>Fri, 08 May 2026 10:00:00 -0300</pubDate>
+      <guid>https://gonareco.github.io/blog/posts/podman-rootless/</guid>
+      <description>&lt;h2 id=&#34;por-qué-me-cambié-a-podman&#34;&gt;Por qué me cambié a Podman&lt;/h2&gt;
+&lt;p&gt;Sencillamente para probar algo nuevo. Vengo usando Docker desde hace años, como sucede muchas veces un interés inicial se convierte en norma de uso general y luego uno no se vuelve a preguntar por qué usa tal o cual cosa. En definitiva cuando empecé a profundizar en administración de Linux, descubrí que Podman es el estándar en el mundo Red Hat/Fedora. No solo viene en los repositorios oficiales (mientras que Docker requiere agregar un repo externo), sino que tiene una ventaja de seguridad enorme: es rootless por defecto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
