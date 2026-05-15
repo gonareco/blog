@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gonzalo Areco</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://gonareco.github.io/blog/</link>
     <description>Recent content on Gonzalo Areco</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gonareco.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acerca de · Mí</title>
-      <link>http://localhost:1313/blog/about/</link>
+      <link>https://gonareco.github.io/blog/about/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/about/</guid>
+      <guid>https://gonareco.github.io/blog/about/</guid>
       <description>&lt;h2 id=&#34;-el-pingüino-rengo&#34;&gt;🐧 El pingüino rengo&lt;/h2&gt;
 &lt;p&gt;Soy &lt;strong&gt;Gonzalo Areco&lt;/strong&gt;, Data Scientist, Linux Admin, aprendiz perpetuo de todo y específicamente en ciberseguridad.&lt;/p&gt;
 &lt;p&gt;Este blog nace como una &lt;strong&gt;bitácora de mi camino&lt;/strong&gt; en mi mundo de Linux. Decidí hacerlo hace mucho tiempo, allá lejos y hace tiempo cuando promediaba los 10 años de uso del ecosistema GNU/Linux por 2016. Recordaba en ese tiempo mi primera instalación de un GNU/Linux con mi Ubuntu 6.10.&lt;/p&gt;
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>Cómo predije eventos de vulnerabilidad habitacional con un 90% de precisión usando R</title>
-      <link>http://localhost:1313/blog/sit-calle/</link>
+      <link>https://gonareco.github.io/blog/sit-calle/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/sit-calle/</guid>
+      <guid>https://gonareco.github.io/blog/sit-calle/</guid>
       <description>&lt;h3 id=&#34;el-problema-real&#34;&gt;El problema real&lt;/h3&gt;
 &lt;p&gt;Las personas en situación de calle viven un ciclo de ingresos y egresos en dispositivos de asistencia habitacional.
 Esto le sucede tanto a familias como a hombres o mujeres solas.
@@ -30,9 +30,9 @@ Aunque hay seguimiento de casos y se pretende un abordaje integral la realidad e
     </item>
     <item>
       <title>Cómo normalicé 40.000 direcciones con un 99.5% de precisión</title>
-      <link>http://localhost:1313/blog/posts/tkinter/</link>
+      <link>https://gonareco.github.io/blog/posts/tkinter/</link>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/tkinter/</guid>
+      <guid>https://gonareco.github.io/blog/posts/tkinter/</guid>
       <description>&lt;h2 id=&#34;el-problema-real&#34;&gt;El problema real&lt;/h2&gt;
 &lt;p&gt;En un proyecto para el &lt;strong&gt;IDECBA&lt;/strong&gt;, el &lt;strong&gt;Instituto de Estadísticas y Censos de la Ciudad de Buenos Aires&lt;/strong&gt;, se necesitaba normalizar ~40.000 direcciones por lote.&lt;/p&gt;
 &lt;p&gt;¿El problema? Estaban escritas de formas inconsistentes, con direcciones codificadas y datos crudos.&lt;/p&gt;
@@ -73,9 +73,9 @@ Aunque hay seguimiento de casos y se pretende un abordaje integral la realidad e
     </item>
     <item>
       <title>Cómo compilé llama.cpp en Fedora con aceleración AMD Radeon</title>
-      <link>http://localhost:1313/blog/posts/llama-cpp-fedora/</link>
+      <link>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</link>
       <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/posts/llama-cpp-fedora/</guid>
+      <guid>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</guid>
       <description>&lt;h2 id=&#34;por-qué-compilar-manualmente-y-no-usar-ollama&#34;&gt;Por qué compilar manualmente y no usar Ollama&lt;/h2&gt;
 &lt;p&gt;Cuando quise correr modelos locales en mi laptop, probé primero Ollama
 con Podman. Funcionaba, pero noté dos problemas:&lt;/p&gt;
@@ -101,17 +101,17 @@ lista oficial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Podman rootless en Fedora: por qué es más seguro que Docker</title>
-      <link>http://localhost:1313/blog/posts/podman-rootless/</link>
+      <link>https://gonareco.github.io/blog/posts/podman-rootless/</link>
       <pubDate>Fri, 08 May 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/posts/podman-rootless/</guid>
+      <guid>https://gonareco.github.io/blog/posts/podman-rootless/</guid>
       <description>&lt;h2 id=&#34;por-qué-me-cambié-a-podman&#34;&gt;Por qué me cambié a Podman&lt;/h2&gt;
 &lt;p&gt;Sencillamente para probar algo nuevo. Vengo usando Docker desde hace años, como sucede muchas veces un interés inicial se convierte en norma de uso general y luego uno no se vuelve a preguntar por qué usa tal o cual cosa. En definitiva cuando empecé a profundizar en administración de Linux, descubrí que Podman es el estándar en el mundo Red Hat/Fedora. No solo viene en los repositorios oficiales (mientras que Docker requiere agregar un repo externo), sino que tiene una ventaja de seguridad enorme: es rootless por defecto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proyectos</title>
-      <link>http://localhost:1313/blog/projects/</link>
+      <link>https://gonareco.github.io/blog/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/projects/</guid>
+      <guid>https://gonareco.github.io/blog/projects/</guid>
       <description>&lt;h2 id=&#34;proyectos-destacados&#34;&gt;Proyectos destacados&lt;/h2&gt;
 &lt;h3 id=&#34;-csv-analyzer&#34;&gt;📊 CSV Analyzer&lt;/h3&gt;
 &lt;p&gt;Análisis automático de archivos CSV. Subís un CSV, devuelve estadísticas, correlaciones y visualizaciones.&lt;/p&gt;
@@ -129,9 +129,9 @@ lista oficial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Skills Técnicos</title>
-      <link>http://localhost:1313/blog/skills/</link>
+      <link>https://gonareco.github.io/blog/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/skills/</guid>
+      <guid>https://gonareco.github.io/blog/skills/</guid>
       <description>&lt;h2 id=&#34;lenguajes&#34;&gt;Lenguajes&lt;/h2&gt;
 &lt;p&gt;Python · SQL · Bash · R · JavaScript&lt;/p&gt;
 &lt;h2 id=&#34;contenedores--cicd&#34;&gt;Contenedores &amp;amp; CI/CD&lt;/h2&gt;
