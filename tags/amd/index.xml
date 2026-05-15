@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AMD on Gonzalo Areco</title>
-    <link>https://gonareco.github.io/blog/tags/amd/</link>
+    <link>http://localhost:1313/blog/tags/amd/</link>
     <description>Recent content in AMD on Gonzalo Areco</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 12 May 2026 10:00:00 -0300</lastBuildDate>
-    <atom:link href="https://gonareco.github.io/blog/tags/amd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/amd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cómo compilé llama.cpp en Fedora con aceleración AMD Radeon</title>
-      <link>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</link>
+      <link>http://localhost:1313/blog/posts/llama-cpp-fedora/</link>
       <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</guid>
+      <guid>http://localhost:1313/blog/posts/llama-cpp-fedora/</guid>
       <description>&lt;h2 id=&#34;por-qué-compilar-manualmente-y-no-usar-ollama&#34;&gt;Por qué compilar manualmente y no usar Ollama&lt;/h2&gt;
 &lt;p&gt;Cuando quise correr modelos locales en mi laptop, probé primero Ollama
 con Podman. Funcionaba, pero noté dos problemas:&lt;/p&gt;
