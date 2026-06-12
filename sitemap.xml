@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gonareco.github.io/blog/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/gpu/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/linux/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/llama.cpp/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/llm/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/posts/llm/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/mistral/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/posts/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/qwen/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/rocm/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gonareco.github.io/blog/tags/ethical-hacking/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/fedora/</loc>
-    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/kali-linux/</loc>
@@ -23,12 +53,6 @@
     <loc>https://gonareco.github.io/blog/tags/pentesting/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/</loc>
-    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/</loc>
-    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gonareco.github.io/blog/tags/virt-manager/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,9 +60,6 @@
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/jellyfin/</loc>
-    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/linux/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/podman/</loc>
@@ -84,15 +105,6 @@
     <lastmod>2026-05-12T10:00:00-03:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</loc>
-    <lastmod>2026-05-12T10:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/gpu/</loc>
-    <lastmod>2026-05-12T10:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/llm/</loc>
-    <lastmod>2026-05-12T10:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/rocm/</loc>
     <lastmod>2026-05-12T10:00:00-03:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/docker/</loc>

@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Gonzalo Areco</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gonareco.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPU</title>
+      <link>https://gonareco.github.io/blog/tags/gpu/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/gpu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://gonareco.github.io/blog/tags/linux/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llama.cpp</title>
+      <link>https://gonareco.github.io/blog/tags/llama.cpp/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/llama.cpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://gonareco.github.io/blog/tags/llm/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mistral</title>
+      <link>https://gonareco.github.io/blog/tags/mistral/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/mistral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qwen</title>
+      <link>https://gonareco.github.io/blog/tags/qwen/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/qwen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ROCm</title>
+      <link>https://gonareco.github.io/blog/tags/rocm/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/rocm/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ethical Hacking</title>
       <link>https://gonareco.github.io/blog/tags/ethical-hacking/</link>
@@ -55,13 +104,6 @@
       <link>https://gonareco.github.io/blog/tags/jellyfin/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid>https://gonareco.github.io/blog/tags/jellyfin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://gonareco.github.io/blog/tags/linux/</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/tags/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -139,27 +181,6 @@
       <link>https://gonareco.github.io/blog/tags/amd/</link>
       <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
       <guid>https://gonareco.github.io/blog/tags/amd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GPU</title>
-      <link>https://gonareco.github.io/blog/tags/gpu/</link>
-      <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
-      <guid>https://gonareco.github.io/blog/tags/gpu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LLM</title>
-      <link>https://gonareco.github.io/blog/tags/llm/</link>
-      <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
-      <guid>https://gonareco.github.io/blog/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ROCm</title>
-      <link>https://gonareco.github.io/blog/tags/rocm/</link>
-      <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
-      <guid>https://gonareco.github.io/blog/tags/rocm/</guid>
       <description></description>
     </item>
     <item>
