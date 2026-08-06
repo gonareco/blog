@@ -6,8 +6,71 @@
     <description>Recent content in Tags on Gonzalo Areco</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gonareco.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big-Data</title>
+      <link>https://gonareco.github.io/blog/tags/big-data/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/big-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Csv</title>
+      <link>https://gonareco.github.io/blog/tags/csv/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/csv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Analyst</title>
+      <link>https://gonareco.github.io/blog/tags/data-analyst/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/data-analyst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Science</title>
+      <link>https://gonareco.github.io/blog/tags/data-science/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Etl</title>
+      <link>https://gonareco.github.io/blog/tags/etl/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/etl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandas</title>
+      <link>https://gonareco.github.io/blog/tags/pandas/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/pandas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>https://gonareco.github.io/blog/tags/performance/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polars</title>
+      <link>https://gonareco.github.io/blog/tags/polars/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/polars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://gonareco.github.io/blog/tags/python/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/tags/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>GPU</title>
       <link>https://gonareco.github.io/blog/tags/gpu/</link>
@@ -146,20 +209,6 @@
       <link>https://gonareco.github.io/blog/tags/data-cleaning/</link>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <guid>https://gonareco.github.io/blog/tags/data-cleaning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pandas</title>
-      <link>https://gonareco.github.io/blog/tags/pandas/</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/tags/pandas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://gonareco.github.io/blog/tags/python/</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/tags/python/</guid>
       <description></description>
     </item>
     <item>

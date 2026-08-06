@@ -1,9 +1,46 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gonareco.github.io/blog/tags/big-data/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/csv/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/data-analyst/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/data-science/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/etl/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gonareco.github.io/blog/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/pandas/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/posts/panda_vs_polars/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/performance/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/polars/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/posts/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/python/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gonareco.github.io/blog/tags/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/gpu/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
@@ -23,16 +60,10 @@
     <loc>https://gonareco.github.io/blog/tags/mistral/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gonareco.github.io/blog/tags/qwen/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/rocm/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/ethical-hacking/</loc>
@@ -87,12 +118,6 @@
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/data-cleaning/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/pandas/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gonareco.github.io/blog/tags/python/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gonareco.github.io/blog/tags/regex/</loc>
