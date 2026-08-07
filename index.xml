@@ -203,17 +203,15 @@ lista oficial.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gonareco.github.io/blog/skills/</guid>
       <description>&lt;h2 id=&#34;lenguajes&#34;&gt;Lenguajes&lt;/h2&gt;
-&lt;p&gt;Python · SQL · Bash · R · JavaScript&lt;/p&gt;
-&lt;h2 id=&#34;contenedores--cicd&#34;&gt;Contenedores &amp;amp; CI/CD&lt;/h2&gt;
-&lt;p&gt;Docker · Podman · GitHub Actions · Render · Netlify&lt;/p&gt;
-&lt;h2 id=&#34;machine-learning--nlp&#34;&gt;Machine Learning &amp;amp; NLP&lt;/h2&gt;
-&lt;p&gt;Scikit-learn · spaCy · NLTK · Clustering · Random Forest&lt;/p&gt;
+&lt;p&gt;Python · SQL · R · JavaScript · Bash&lt;/p&gt;
+&lt;h2 id=&#34;visualización&#34;&gt;Visualización&lt;/h2&gt;
+&lt;p&gt;Plotly · Dash · Shiny · ggplot2 · Folium · WordCloud · Tableau · Power BI&lt;/p&gt;
+&lt;h2 id=&#34;análisis-y-procesamiento-de-datos--machine-learning--nlp&#34;&gt;Análisis y procesamiento de datos | Machine Learning &amp;amp; NLP&lt;/h2&gt;
+&lt;p&gt;Pandas · Polars · DuckDB · Scikit-learn · Random Forest · NLP (NLTK) · Clustering&lt;/p&gt;
 &lt;h2 id=&#34;bases-de-datos&#34;&gt;Bases de Datos&lt;/h2&gt;
 &lt;p&gt;PostgreSQL · SQL Server · MySQL · MongoDB&lt;/p&gt;
-&lt;h2 id=&#34;visualización&#34;&gt;Visualización&lt;/h2&gt;
-&lt;p&gt;Plotly · Dash · Tableau · Power BI · Folium&lt;/p&gt;
-&lt;h2 id=&#34;linux-admin&#34;&gt;Linux Admin&lt;/h2&gt;
-&lt;p&gt;Bash · systemd · cron · Firewalld · SELinux&lt;/p&gt;</description>
+&lt;h2 id=&#34;contenedores-y-despliegue-cicd&#34;&gt;Contenedores y despliegue CI/CD&lt;/h2&gt;
+&lt;p&gt;Docker-Podman · Docker Compose · Git · GitHub · GitHub Actions · Netlify · Render&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
