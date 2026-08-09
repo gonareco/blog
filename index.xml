@@ -15,8 +15,8 @@
       <guid>https://gonareco.github.io/blog/about/</guid>
       <description>&lt;h2 id=&#34;-el-pingüino-rengo&#34;&gt;🐧 El pingüino rengo&lt;/h2&gt;
 &lt;p&gt;Soy &lt;strong&gt;Gonzalo Areco&lt;/strong&gt;, Data Scientist, Linux Admin, aprendiz perpetuo de todo y específicamente en ciberseguridad.&lt;/p&gt;
-&lt;p&gt;Este blog nace como una &lt;strong&gt;bitácora de mi camino&lt;/strong&gt; en mi mundo de Linux. Decidí hacerlo hace mucho tiempo, cuando promediaba los 10 años de uso del ecosistema GNU/Linux por 2016. Recordaba en ese tiempo mi primera instalación de un GNU/Linux con mi Ubuntu 6.10.&lt;/p&gt;
-&lt;p&gt;La evolución del entorno y mis avatares profesionales me hicieron migrar varias veces: Debian, OpenSUSE, trabajé con CentOS en algún momento, volví a Ubuntu allá por su versión 14. La madurez profesional te obliga a salir de Ubuntu (no se enojen), y probar otras distros: Arch, Manjaro y finalmente disfrutar hoy con Fedora, distribución que no pienso soltar por un buen tiempo.&lt;/p&gt;</description>
+&lt;p&gt;Este blog nace como una &lt;strong&gt;bitácora de mi propio camino&lt;/strong&gt; en el mundo de Linux. Decidí hacerlo hace mucho tiempo, cuando promediaba los 10 años de uso del ecosistema por 2016 y recordaba en ese momento mis primeros pasos y dolores de cabeza con GNU/Linux y mi Ubuntu 6.10.&lt;/p&gt;
+&lt;p&gt;Hoy 20 años después, con la evolución del entorno, mi propia curiosidad y los avatares profesionales tuve que migrar varias veces: Debian, OpenSUSE, trabajé con CentOS en algún momento, volví a Ubuntu allá por su versión 14. La madurez profesional te obliga a salir de Ubuntu (no se enojen), y probar otras distros: Arch, Manjaro y finalmente disfrutar hoy con Fedora, distribución que no pienso soltar por un buen tiempo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pandas vs Polars: mi experiencia con 2,5 millones de registros</title>
