@@ -6,8 +6,18 @@
     <description>Recent content on Gonzalo Areco</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gonareco.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca de · Mí</title>
+      <link>https://gonareco.github.io/blog/about/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gonareco.github.io/blog/about/</guid>
+      <description>&lt;h2 id=&#34;-el-pingüino-rengo&#34;&gt;🐧 El pingüino rengo&lt;/h2&gt;
+&lt;p&gt;Soy &lt;strong&gt;Gonzalo Areco&lt;/strong&gt;, Data Scientist, Linux Admin, aprendiz perpetuo de todo y específicamente en ciberseguridad.&lt;/p&gt;
+&lt;p&gt;Este blog nace como una &lt;strong&gt;bitácora de mi camino&lt;/strong&gt; en mi mundo de Linux. Decidí hacerlo hace mucho tiempo, cuando promediaba los 10 años de uso del ecosistema GNU/Linux por 2016. Recordaba en ese tiempo mi primera instalación de un GNU/Linux con mi Ubuntu 6.10.&lt;/p&gt;
+&lt;p&gt;La evolución del entorno y mis avatares profesionales me hicieron migrar varias veces: Debian, OpenSUSE, trabajé con CentOS en algún momento, volví a Ubuntu allá por su versión 14. La madurez profesional te obliga a salir de Ubuntu (no se enojen), y probar otras distros: Arch, Manjaro y finalmente disfrutar hoy con Fedora, distribución que no pienso soltar por un buen tiempo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pandas vs Polars: mi experiencia con 2,5 millones de registros</title>
       <link>https://gonareco.github.io/blog/posts/panda_vs_polars/</link>
@@ -86,16 +96,6 @@ Ojo, una alternativa DIY (Do It Yourself, lo aclaro más abajo) es completamente
 &lt;p&gt;Mi vieja Lenovo es un i7 6500, con 16 GB de RAM, un SSD de 256 y un HDD de 1 TB. ¿Sistema operativo? Fedora, desde ya.
 Para ahorrarnos de decirle &lt;em&gt;la vieja&lt;/em&gt;, &lt;em&gt;la nueva&lt;/em&gt; etc, la llamaremos cariñosamente &lt;strong&gt;Jelly&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Como Jelly estaba apagada acumulando polvo siendo un &lt;em&gt;pisapapeles caro&lt;/em&gt; decidí darle una segunda vida y de paso aprender y compartir algo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Acerca de · Mí</title>
-      <link>https://gonareco.github.io/blog/about/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/about/</guid>
-      <description>&lt;h2 id=&#34;-el-pingüino-rengo&#34;&gt;🐧 El pingüino rengo&lt;/h2&gt;
-&lt;p&gt;Soy &lt;strong&gt;Gonzalo Areco&lt;/strong&gt;, Data Scientist, Linux Admin, aprendiz perpetuo de todo y específicamente en ciberseguridad.&lt;/p&gt;
-&lt;p&gt;Este blog nace como una &lt;strong&gt;bitácora de mi camino&lt;/strong&gt; en mi mundo de Linux. Decidí hacerlo hace mucho tiempo, allá lejos y hace tiempo cuando promediaba los 10 años de uso del ecosistema GNU/Linux por 2016. Recordaba en ese tiempo mi primera instalación de un GNU/Linux con mi Ubuntu 6.10.&lt;/p&gt;
-&lt;p&gt;La evolución del entorno y mis avatares profesionales me hicieron migrar varias veces, Debian, OpenSUSE, trabajé con CentOS en algún momento, volví a Ubuntu allá por su versión 14. La madurez profesional te obliga a salir de Ubuntu (no se enojen), y probar otras distros, Arch, Manjaro y finalmente disfrutar hoy con Fedora, distribución que no pienso soltar por un buen tiempo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cómo normalicé 40.000 direcciones con un 99.5% de precisión</title>
