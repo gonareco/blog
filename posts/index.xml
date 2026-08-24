@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Gonzalo Areco</title>
-    <link>https://gonareco.github.io/blog/posts/</link>
+    <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in Posts on Gonzalo Areco</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gonareco.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pandas vs Polars: mi experiencia con 2,5 millones de registros</title>
-      <link>https://gonareco.github.io/blog/posts/panda_vs_polars/</link>
+      <link>http://localhost:1313/blog/posts/panda_vs_polars/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/panda_vs_polars/</guid>
+      <guid>http://localhost:1313/blog/posts/panda_vs_polars/</guid>
       <description>&lt;h2 id=&#34;cuando-pandas-empieza-a-sufrir&#34;&gt;Cuando Pandas empieza a sufrir&lt;/h2&gt;
 &lt;p&gt;Como analista de datos, siempre se busca el equilibrio entre velocidad de análisis y eficiencia de recursos. Pandas ha sido el caballo de batalla indiscutible en Python durante años, pero al trabajar con datasets de gran volumen, se empiezan a sentir sus limitaciones.&lt;/p&gt;
 &lt;p&gt;Con datasets de varios millones de filas, Pandas comienza a ponerse lento, por lo que es necesario dar el salto a Polars.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLMs locales con llama.cpp: por qué trabajo híbridamente (nube y local)</title>
-      <link>https://gonareco.github.io/blog/posts/llm/</link>
+      <link>http://localhost:1313/blog/posts/llm/</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/llm/</guid>
+      <guid>http://localhost:1313/blog/posts/llm/</guid>
       <description>&lt;h2 id=&#34;el-problema-depender-de-la-nube-para-todo&#34;&gt;El problema: depender de la nube para todo&lt;/h2&gt;
 &lt;p&gt;No soy un experto en LLMs, pero descubrí algunas cuestiones que podrían mejorarse sin gastar un peso en el camino. Los LLMs online gratuitos funcionan, pero:&lt;/p&gt;
 &lt;ul&gt;
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>Kali Linux en Fedora con KVM: virtualización nativa para pentesting</title>
-      <link>https://gonareco.github.io/blog/posts/kali/</link>
+      <link>http://localhost:1313/blog/posts/kali/</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/kali/</guid>
+      <guid>http://localhost:1313/blog/posts/kali/</guid>
       <description>&lt;h2 id=&#34;el-contexto&#34;&gt;El contexto&lt;/h2&gt;
 &lt;p&gt;Ejecutar herramientas de auditoría de red (Nmap, Metasploit, Burp Suite) sin contaminar el sistema anfitrión ni depender de hardware dedicado.&lt;/p&gt;
 &lt;h2 id=&#34;la-solución&#34;&gt;La solución&lt;/h2&gt;
@@ -69,9 +69,9 @@ sudo usermod -aG libvirt $USER
     </item>
     <item>
       <title>Cómo liberé mi Jellyfin de la red local</title>
-      <link>https://gonareco.github.io/blog/posts/tailscale-jellyfin/</link>
+      <link>http://localhost:1313/blog/posts/tailscale-jellyfin/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/tailscale-jellyfin/</guid>
+      <guid>http://localhost:1313/blog/posts/tailscale-jellyfin/</guid>
       <description>&lt;h2 id=&#34;el-problema-esclavo-de-mi-propia-red&#34;&gt;El problema: esclavo de mi propia red&lt;/h2&gt;
 &lt;p&gt;Tenía Jellyfin corriendo en mi Lenovo. En casa perfecto, pero apenas salía de mi red local, por supuesto me quedaba sin mis series de lujo y la mejor película de todos los tiempos (Simpsons en formato 4:3, South Park y Terminator II (Versión Extendida))&lt;/p&gt;
 &lt;p&gt;Necesitaba una forma de acceder desde cualquier lugar, pero quería evitar configuraciones de router, puertos, certificados y esas cosas porque desde mi punto de vista (el único que importa para el caso) no ameritaba el esfuerzo de configuraciones para algo tan hogareño.
@@ -79,9 +79,9 @@ Ojo, una alternativa DIY (Do It Yourself, lo aclaro más abajo) es completamente
     </item>
     <item>
       <title>Cómo convertí un caro pisapapeles en un servidor media casero (con Fedora, Podman y Jellyfin)</title>
-      <link>https://gonareco.github.io/blog/posts/server-jellyfin/</link>
+      <link>http://localhost:1313/blog/posts/server-jellyfin/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/server-jellyfin/</guid>
+      <guid>http://localhost:1313/blog/posts/server-jellyfin/</guid>
       <description>&lt;h2 id=&#34;el-problema-una-lenovo-que-adoro-que-anda-muy-bien-pero-ya-tiene-sus-años-11&#34;&gt;El problema: Una Lenovo que adoro, que anda muy bien pero ya tiene sus años (11)&lt;/h2&gt;
 &lt;p&gt;Mi vieja Lenovo es un i7 6500, con 16 GB de RAM, un SSD de 256 y un HDD de 1 TB. ¿Sistema operativo? Fedora, desde ya.
 Para ahorrarnos de decirle &lt;em&gt;la vieja&lt;/em&gt;, &lt;em&gt;la nueva&lt;/em&gt; etc, la llamaremos cariñosamente &lt;strong&gt;Jelly&lt;/strong&gt;.&lt;/p&gt;
@@ -89,9 +89,9 @@ Para ahorrarnos de decirle &lt;em&gt;la vieja&lt;/em&gt;, &lt;em&gt;la nueva&lt;
     </item>
     <item>
       <title>Cómo normalicé 40.000 direcciones con un 99.5% de precisión</title>
-      <link>https://gonareco.github.io/blog/posts/tkinter/</link>
+      <link>http://localhost:1313/blog/posts/tkinter/</link>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/tkinter/</guid>
+      <guid>http://localhost:1313/blog/posts/tkinter/</guid>
       <description>&lt;h2 id=&#34;el-problema-real&#34;&gt;El problema real&lt;/h2&gt;
 &lt;p&gt;En un proyecto para el &lt;strong&gt;IDECBA&lt;/strong&gt;, el &lt;strong&gt;Instituto de Estadísticas y Censos de la Ciudad de Buenos Aires&lt;/strong&gt;, se necesitaba normalizar ~40.000 direcciones por lote.&lt;/p&gt;
 &lt;p&gt;¿El problema? Estaban escritas de formas inconsistentes, con direcciones codificadas y datos crudos.&lt;/p&gt;
@@ -132,9 +132,9 @@ Para ahorrarnos de decirle &lt;em&gt;la vieja&lt;/em&gt;, &lt;em&gt;la nueva&lt;
     </item>
     <item>
       <title>Cómo compilé llama.cpp en Fedora con aceleración AMD Radeon</title>
-      <link>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</link>
+      <link>http://localhost:1313/blog/posts/llama-cpp-fedora/</link>
       <pubDate>Tue, 12 May 2026 10:00:00 -0300</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</guid>
+      <guid>http://localhost:1313/blog/posts/llama-cpp-fedora/</guid>
       <description>&lt;h2 id=&#34;por-qué-compilar-manualmente-y-no-usar-ollama&#34;&gt;Por qué compilar manualmente y no usar Ollama&lt;/h2&gt;
 &lt;p&gt;Cuando quise correr modelos locales en mi laptop, probé primero Ollama
 con Podman. Funcionaba, pero noté dos problemas:&lt;/p&gt;
@@ -160,9 +160,9 @@ lista oficial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Podman rootless en Fedora: por qué es más seguro que Docker</title>
-      <link>https://gonareco.github.io/blog/posts/podman-rootless/</link>
+      <link>http://localhost:1313/blog/posts/podman-rootless/</link>
       <pubDate>Fri, 08 May 2026 10:00:00 -0300</pubDate>
-      <guid>https://gonareco.github.io/blog/posts/podman-rootless/</guid>
+      <guid>http://localhost:1313/blog/posts/podman-rootless/</guid>
       <description>&lt;h2 id=&#34;por-qué-me-cambié-a-podman&#34;&gt;Por qué me cambié a Podman&lt;/h2&gt;
 &lt;p&gt;Sencillamente para probar algo nuevo. Vengo usando Docker desde hace años, como sucede muchas veces un interés inicial se convierte en norma de uso general y luego uno no se vuelve a preguntar por qué usa tal o cual cosa. En definitiva cuando empecé a profundizar en administración de Linux, descubrí que Podman es el estándar en el mundo Red Hat/Fedora. No solo viene en los repositorios oficiales (mientras que Docker requiere agregar un repo externo), sino que tiene una ventaja de seguridad enorme: es rootless por defecto.&lt;/p&gt;</description>
     </item>

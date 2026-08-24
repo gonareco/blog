@@ -3,154 +3,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gonareco.github.io/blog/about/</loc>
+    <loc>http://localhost:1313/blog/about/</loc>
     <lastmod>2026-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/big-data/</loc>
+    <loc>http://localhost:1313/blog/tags/big-data/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/csv/</loc>
+    <loc>http://localhost:1313/blog/tags/csv/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/data-analyst/</loc>
+    <loc>http://localhost:1313/blog/tags/data-analyst/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/data-science/</loc>
+    <loc>http://localhost:1313/blog/tags/data-science/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/etl/</loc>
+    <loc>http://localhost:1313/blog/tags/etl/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/pandas/</loc>
+    <loc>http://localhost:1313/blog/tags/pandas/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/panda_vs_polars/</loc>
+    <loc>http://localhost:1313/blog/posts/panda_vs_polars/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/performance/</loc>
+    <loc>http://localhost:1313/blog/tags/performance/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/polars/</loc>
+    <loc>http://localhost:1313/blog/tags/polars/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/</loc>
+    <loc>http://localhost:1313/blog/posts/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/python/</loc>
+    <loc>http://localhost:1313/blog/tags/python/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/gpu/</loc>
+    <loc>http://localhost:1313/blog/tags/gpu/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/linux/</loc>
+    <loc>http://localhost:1313/blog/tags/linux/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/llama.cpp/</loc>
+    <loc>http://localhost:1313/blog/tags/llama.cpp/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/llm/</loc>
+    <loc>http://localhost:1313/blog/tags/llm/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/llm/</loc>
+    <loc>http://localhost:1313/blog/posts/llm/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/mistral/</loc>
+    <loc>http://localhost:1313/blog/tags/mistral/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/qwen/</loc>
+    <loc>http://localhost:1313/blog/tags/qwen/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/rocm/</loc>
+    <loc>http://localhost:1313/blog/tags/rocm/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/ethical-hacking/</loc>
+    <loc>http://localhost:1313/blog/tags/ethical-hacking/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/fedora/</loc>
+    <loc>http://localhost:1313/blog/tags/fedora/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/kali-linux/</loc>
+    <loc>http://localhost:1313/blog/tags/kali-linux/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/kali/</loc>
+    <loc>http://localhost:1313/blog/posts/kali/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/kvm/</loc>
+    <loc>http://localhost:1313/blog/tags/kvm/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/pentesting/</loc>
+    <loc>http://localhost:1313/blog/tags/pentesting/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/virt-manager/</loc>
+    <loc>http://localhost:1313/blog/tags/virt-manager/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/tailscale-jellyfin/</loc>
+    <loc>http://localhost:1313/blog/posts/tailscale-jellyfin/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/jellyfin/</loc>
+    <loc>http://localhost:1313/blog/tags/jellyfin/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/podman/</loc>
+    <loc>http://localhost:1313/blog/tags/podman/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/tailscale/</loc>
+    <loc>http://localhost:1313/blog/tags/tailscale/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/vpn/</loc>
+    <loc>http://localhost:1313/blog/tags/vpn/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/server-jellyfin/</loc>
+    <loc>http://localhost:1313/blog/posts/server-jellyfin/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/permisos/</loc>
+    <loc>http://localhost:1313/blog/tags/permisos/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/selinux/</loc>
+    <loc>http://localhost:1313/blog/tags/selinux/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/tkinter/</loc>
+    <loc>http://localhost:1313/blog/posts/tkinter/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/data-cleaning/</loc>
+    <loc>http://localhost:1313/blog/tags/data-cleaning/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/regex/</loc>
+    <loc>http://localhost:1313/blog/tags/regex/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/tkinter/</loc>
+    <loc>http://localhost:1313/blog/tags/tkinter/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/amd/</loc>
+    <loc>http://localhost:1313/blog/tags/amd/</loc>
     <lastmod>2026-05-12T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/llama-cpp-fedora/</loc>
+    <loc>http://localhost:1313/blog/posts/llama-cpp-fedora/</loc>
     <lastmod>2026-05-12T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/docker/</loc>
+    <loc>http://localhost:1313/blog/tags/docker/</loc>
     <lastmod>2026-05-08T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/posts/podman-rootless/</loc>
+    <loc>http://localhost:1313/blog/posts/podman-rootless/</loc>
     <lastmod>2026-05-08T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/seguridad/</loc>
+    <loc>http://localhost:1313/blog/tags/seguridad/</loc>
     <lastmod>2026-05-08T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://gonareco.github.io/blog/categories/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/dash/</loc>
+    <loc>http://localhost:1313/blog/tags/dash/</loc>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/ntlk/</loc>
+    <loc>http://localhost:1313/blog/tags/ntlk/</loc>
   </url><url>
-    <loc>https://gonareco.github.io/blog/projects/</loc>
+    <loc>http://localhost:1313/blog/projects/</loc>
   </url><url>
-    <loc>https://gonareco.github.io/blog/skills/</loc>
+    <loc>http://localhost:1313/blog/skills/</loc>
   </url><url>
-    <loc>https://gonareco.github.io/blog/tags/spacy/</loc>
+    <loc>http://localhost:1313/blog/tags/spacy/</loc>
   </url>
 </urlset>
